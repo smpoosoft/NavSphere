@@ -643,6 +643,14 @@
               "description": "The AI Toolkit for TypeScript, from the creators of Next.js.",
               "icon": "/assets/favicon_1760433274445.ico",
               "enabled": true
+            },
+            {
+              "id": "item-1761855067644",
+              "enabled": true,
+              "title": "GitHub 开源项目2025_10_31",
+              "href": "https://mp.weixin.qq.com/s/jn0wwkjMokffbxQqEd1TRg",
+              "description": "访问 mp.weixin.qq.com",
+              "icon": "/assets/favicon_1761855029440.png"
             }
           ]
         },
