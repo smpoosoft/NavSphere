@@ -321,7 +321,16 @@
       "icon": "Box",
       "description": "开发者工具，工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1761848146327",
+          "enabled": true,
+          "title": "导航站管理系统部署指南",
+          "href": "https://mp.weixin.qq.com/s/90LUmKilfLZfc5L63Ej3Sg",
+          "description": "访问 mp.weixin.qq.com",
+          "icon": "/assets/favicon_1761848122098.png"
+        }
+      ],
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
