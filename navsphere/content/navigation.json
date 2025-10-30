@@ -108,6 +108,14 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
+        },
+        {
+          "id": "item-1761848859211",
+          "enabled": true,
+          "title": "【CRM登录】销售易CRM",
+          "href": "https://login-sandbox.xiaoshouyi.com/auc/oauth2/auth?response_type=code&client_id=loginClientId_1000&redirect_uri=https%3A%2F%2Fcrm-sandbox.xiaoshouyi.com%2Fneologin%2Fskip%2Fv2%2Fauc%2Foauth2%2Ftoken%2Finfo&access_type=offline&scope=crm#/neobi/analytics/bi/sharedspace",
+          "description": "",
+          "icon": "/assets/favicon_1761848851733.ico"
         }
       ],
       "subCategories": [],
