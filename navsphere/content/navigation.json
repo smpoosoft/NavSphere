@@ -337,6 +337,14 @@
           "href": "https://mp.weixin.qq.com/s/90LUmKilfLZfc5L63Ej3Sg",
           "description": "访问 mp.weixin.qq.com",
           "icon": "/assets/favicon_1761848122098.png"
+        },
+        {
+          "id": "item-1761896309784",
+          "enabled": true,
+          "title": "JSON代码格式化高亮美化",
+          "href": "https://www.w3cschool.cn/tools/index?name=jsonparse",
+          "description": "",
+          "icon": "/assets/favicon_1761896294294.png"
         }
       ],
       "subCategories": [
