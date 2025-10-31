@@ -345,6 +345,14 @@
           "href": "https://www.w3cschool.cn/tools/index?name=jsonparse",
           "description": "",
           "icon": "/assets/favicon_1761896294294.png"
+        },
+        {
+          "id": "item-1761896331042",
+          "enabled": true,
+          "title": "美化 JSON",
+          "href": "https://www.useotools.com/zh/beautify-json",
+          "description": "Beautify JSON 是一款一键式在线 JSON 美化器，可立即美化您的 JSON 数据。",
+          "icon": "/assets/favicon_1761896327532.ico"
         }
       ],
       "subCategories": [
